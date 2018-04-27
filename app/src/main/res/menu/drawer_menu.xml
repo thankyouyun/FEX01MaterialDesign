@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_no1"
+        android:title="일번메뉴"
+        android:icon="@android:drawable/ic_menu_gallery"
+        />
+
+    <item android:id="@+id/menu_no2"
+        android:title="이번메뉴"
+        android:icon="@android:drawable/ic_menu_gallery"
+        />
+    <item android:id="@+id/menu_no3"
+        android:title="삼번메뉴"
+        android:icon="@android:drawable/ic_menu_gallery"
+        />
+
+
+
+</menu>
